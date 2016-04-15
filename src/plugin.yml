@@ -1,0 +1,15 @@
+name: MistfireVoteManager
+version: 6.4.01
+main: me.MistfireWolf.VoteManager.Main
+description: A vote rewards manager - Made by MistfireWolf
+commands:
+  rewardset:
+    description: Adds a new reward point/command against the specified player.
+  claim:
+    description: Claims any rewards that the player has pending.
+  vp:
+    description: Displays the number of votes until the next vote party.
+  voteparty:
+    description: Displays the number of votes until the next vote party.
+  rewardreset:
+    description: Clears all rewards for the specified player/world.
